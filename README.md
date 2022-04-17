@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBjtcsm&show_icons=true&theme=radical)(https://www.dislink.net.cn)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KBjtcsm&show_icons=true&theme=radical)[https://www.dislink.net.cn]
 <p>
   <a href="https://count.getloli.com/"><img src="https://dislink.net.cn/static/images/logo.png"></a>
   <img src="https://weather-icon.journeyad.repl.co/@shenyang?v=1" align="right">
